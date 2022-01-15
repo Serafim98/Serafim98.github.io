@@ -1,0 +1,14 @@
+#body{
+    background-image: linear-gradient(rgb(117, 192, 161), rgb(168, 159, 159));
+    width: auto;
+    height: 1000px;
+    min-height: 100px;
+}
+
+.titulo{
+    color: blanchedalmond;
+}
+
+.nav-link{
+    color: blanchedalmond;
+}
