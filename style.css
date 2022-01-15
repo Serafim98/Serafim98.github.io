@@ -1,14 +1,56 @@
-#body{
-    background-image: linear-gradient(rgb(117, 192, 161), rgb(168, 159, 159));
+#body {
+  background-image: linear-gradient(rgb(106, 137, 184), rgb(173, 173, 173));
+  background-repeat: round;
+  width: auto;
+  height: 1000px;
+  min-height: 100px;
+}
+
+.titulo {
+  color: blanchedalmond;
+}
+
+.imagesocial{
+    width: 25px;
+    height: 25px;
+    margin: 30px 10px 10px 15px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+#lkd, #gth, #email{
+    color: blanchedalmond;
+    margin: 30px 10px 10px 15px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 3px;
+    color: white;
+    position: fixed;
+    bottom: 0;
+  }
+
+
+.imagehab{
     width: auto;
-    height: 1000px;
-    min-height: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
 }
 
-.titulo{
-    color: blanchedalmond;
+div.gallery {
+    margin: 5px;
+    float: left;
+    width: 180px;
 }
-
-.nav-link{
-    color: blanchedalmond;
+  
+div.gallery img {
+    width: 100%;
+    height: auto;
 }
+  
+  
